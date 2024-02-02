@@ -1,0 +1,25 @@
+// Necessary Things For Learning C++:
+
+    // Basic Maths
+
+// Computer:
+
+    // Hardware: Everything related to computer etc. which we can touch like ram, monitor, keyboard etc.
+
+    // Software: For running hardware. facebook, instagram, etc. all these apps are in software category but they are hardware independent softwares and these are called high level softwares. But from all softwares there are softwares that are made for running hardware. We teach operating system through softwares that how to run a particular hardware like printer etc.
+
+// In c programming we make those softwares that can run hardware means Low Level Applications. Low level means those softwares that are connected to hardware or system. These Low Level Softwares are called  device drivers.
+
+// High level applications are made from high level languages like Python, Java etc. and facebook, twitter etc are High Level Applications, so there is not much use of c language in these type of apps.
+
+// C language is energy efficient and consumes less memory too maybe. 
+
+// OS or system or machine doesn't understand programming languages. So for this purpose there is compiler which will read the code and then convert our programming language code into the language which machine or OS or system understands in other words compiler converts the source code into machine code. Machine understands binary language.
+
+// codeblocks is the software which has compiler which we will download and use in our system to write the code in c programming language and then codeblocks's compiler will convert our programming language code into the language that machine understands.
+
+// devc++ and turbo c++ are also softwares like codeblocks which has compiler.
+
+// c programming is Operating System dependant(platform dependant) means if we create a software in windows it will only work in windows operating system and not in linux macos etc.
+
+// Java is platform independent.
