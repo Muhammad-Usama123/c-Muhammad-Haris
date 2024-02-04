@@ -105,6 +105,28 @@
                         // 5.0 / 2.5 ==> 2  
                         // 2.0 / 5 ==> 0.4 
 
+                        // Note: int a = 3.5; // In this case 3.5 (float) will be demoted to 3 (int) because a is not able to store floats. // not recommended.
+
+                        // Note: float a = 8; // a will store 8.0 // 8 ==> 8.0 (promotion to float).
+
+                        // Quick Quiz:
+
+                            // Q) int k = 3.0 / 9 // value of k? // and why?
+
+                            // Ans) 3.0 / 9 = 0.333 // but since k is an int, it cannot store floats and value 0.333 will be demoted to 0.
+
+                // Operator Precedence In C:
+
+                    // If we'll write any calculations inside paranthesis then they will be calculated first before the values outside paranthesis will be calculated. If we'll not use any paranthesis then the calculations will take place according to below priorites and if like we'll use *, / both in the same calculation and both of these operators are in first priority then the calculations will take place between * and / operators according to below defined operators associativity which is defined in line 126.
+
+                    // first priority: *, /, %
+                    // second priority: +, -
+                    // third priority: =
+
+                // Operator associativity:
+
+                    // *, / follow left to write associativity
+
     // 3) Control Instruction.
 
         // Examples:
@@ -115,3 +137,7 @@
             // Control instructions simply tells us that which thing will execute first and which thing will execute second and which program will run when and where etc. etc. In simple wordscontrol instruction decides flow of program.
 
 
+        // 1) Sequence Control Instruction. // normal instructions that gets excuted in sequence.
+        // 1) Decision Control Instruction. // if else etc.
+        // 1) Loop Control Instruction. // for loops, while loops, do while loops etc.
+        // 1) Case Control Instruction. // switch case etc. .
