@@ -141,3 +141,5 @@
         // 1) Decision Control Instruction. // if else etc.
         // 1) Loop Control Instruction. // for loops, while loops, do while loops etc.
         // 1) Case Control Instruction. // switch case etc. .
+
+// every non zero thing in c is true.
