@@ -39,5 +39,5 @@
 
     // condition ? expression-if-true : expression-if-false // In this line "?" and ":" are conditional or ternary operators.
 
-
+// ASCII integer values when we typecast alphabets into integers. // for details code with chapter 3 ps last question that check whether the entered alphabet is lower case or not?.
 
