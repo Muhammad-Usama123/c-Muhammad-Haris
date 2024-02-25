@@ -91,6 +91,6 @@
 
         // Sometimes due to a mistake made by the programmer, a recursive function can keep running without returning resulting in a memory error.
 
-    // In practice set of this chapter q1, q3 and q5 has something to learn so please watch it. Note by Muhammad Usama.
+    // In practice set of this chapter q1, q3 and q5 and last question has something to learn so please watch it. Note by Muhammad Usama.
 
         
